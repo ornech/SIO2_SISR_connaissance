@@ -4,3 +4,4 @@
 # Memo E5
 1) Attendus
 2) Portefolio
+3) macron demission
